@@ -9,10 +9,13 @@
 
 <img src="/gif/main_menu_bg.gif" width="200"/> 
 
+## Game level open
 
+<img src="/gif/game_level_open.gif" width="200"/> 
 
+## Level finish
 
-## Other Screens
+<img src="/gif/level_finish.gif" width="200"/> 
 
 
 
