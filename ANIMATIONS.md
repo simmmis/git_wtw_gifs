@@ -3,7 +3,7 @@
 
 ## Daily Bonus
 
-<img src="/gif/dailybonus.gif" width="200"/> 
+<img src="/gif/dailybonus.gif" width="200"/> <img src="/gif/dailybonus_strobe.gif" width="200"/> 
 
 ## Main menu BG
 
